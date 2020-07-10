@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
+# Mod by: MR.ATIQ
 # team: life of programmer
 
 
@@ -37,22 +37,22 @@ def banner():
     os.system('clear')
     print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(WW+"   ..................  BLACK RANJHA")
+    runntxt(WW+"     ....       MR.ATIQ")
+    runntxt(GL+"                YOUTUBE NOTE POINT")
+    runntxt(GG+"     ..........     WHATSAPP NUMBER")
+    runntxt(Y+"    ............       +923414826359")
+    runntxt(GG+"           TARGIT HACK ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |            MOD BY: MR.ATIQ                  |"
+    print GL+"  |  TEAM MA JOIN HUNY KA LEA WHATAPP AA JAO    |"
+    print WW+"  |        TEAM : PAKISTAN CYBER ErRoR SyStEm   |"
+    print Y+"  |             WHATSAPP: +923414826359          |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
+    print GL+"  |        LIFE OF PROGRAMMER [ N.P ]           |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
@@ -171,10 +171,10 @@ def runn_noobs():
          `:o:``....--        ..     `:o:`
            `:+/-`  `-        ..  `-/+:`
               `-/+///..````..://+/-`
-                  `.-::////::-.` \033[91;1m
+                  `.-::////::-.` \033[91;1mBLACL_RANJHA
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m MR.ATIQ
       """
 
 
